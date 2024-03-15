@@ -1,4 +1,4 @@
 package com.practice.leetcode;
 
-public class Test {
+public class TestV1 {
 }
